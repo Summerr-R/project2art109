@@ -1,0 +1,35 @@
+* {
+    background-color: black;
+    background-size: cover;
+    color: white;
+}
+h1 .btn {
+    font-family: "Noto Serif", serif;
+}
+.why {
+    color: aqua;
+}
+
+.home {
+    font-size:85px;
+    text-align: center;
+    margin: 160px;
+}
+
+.start {
+    text-align: center;
+}
+.btn {
+    background: #252525;
+    color: white;
+    text-decoration: none;
+    width: 50px;
+    height: 40px;
+    font-size: 20px;
+}
+a.btn {
+    padding: 1px 6px;
+    border: 1px outset;
+    border-radius: 3px;
+    text-decoration: none;
+}
